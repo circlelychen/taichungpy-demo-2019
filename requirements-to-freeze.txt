@@ -1,5 +1,6 @@
 rasa-x==0.21.4 --extra-index-url https://pypi.rasa.com/simple
-keras==2.3.1
+## keras==2.3.1
+Keras==2.2.4
 ckiptagger==0.0.19
 
 #### keras-contrib==2.0.8

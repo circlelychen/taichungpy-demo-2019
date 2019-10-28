@@ -1,7 +1,5 @@
+rasa[spacy]==1.4.1
 rukip==0.0.4
-
-#### rasa-x
-### rasa-x==0.21.4 --extra-index-url https://pypi.rasa.com/simple
 
 ## keras==2.3.1, keras-contrib==2.0.8
 Keras==2.2.4

@@ -1,7 +1,3 @@
 rasa[spacy]==1.4.1
 rukip==0.0.4
 google-cloud-translate==2.0.0
-
-## keras==2.3.1, keras-contrib==2.0.8
-Keras==2.2.4
-git+https://www.github.com/keras-team/keras-contrib.git@5ffab172661411218e517a50170bb97760ea567b

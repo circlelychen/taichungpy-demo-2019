@@ -1,0 +1,27 @@
+language: zh
+
+pipeline:
+  - name: "rukip.tokenizer.CKIPTokenizer"
+    model_path: "./ckip_model"
+  - name: "rukip.featurizer.CKIPFeaturizer"
+    model_path: "./ckip_model"
+    token_features: ["word", "pos"]
+  - name: "CRFEntityExtractor"
+    features: [["ner_features"], ["ner_features"], ["ner_features"]]
+  - name: "CountVectorsFeaturizer"
+    analyzer: 'word'
+    token_pattern: '(?u)\b\w+\b'
+  - name: "EmbeddingIntentClassifier"
+
+policies:
+  - name: KerasPolicy
+    batch_size: 50
+    epochs: 100
+    max_training_samples: 300
+  - name: FallbackPolicy
+    nlu_threshold: 0.3
+    core_threshold: 0.3
+    fallback_action_name: action_default_fallback
+  - name: MemoizationPolicy
+    max_history: 5
+  - name: MappingPolicy

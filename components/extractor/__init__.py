@@ -1,2 +1,0 @@
-from .crf_entity_extractor import CRFEntityExtractor
-from .lstm_entity_extractor import KerasBaseEntityExtractor

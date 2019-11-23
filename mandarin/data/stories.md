@@ -2,7 +2,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "paris"}
  - utter_ask_numpeople
@@ -35,7 +34,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris", "people": "six", "price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_moreupdates
@@ -64,7 +62,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "people": "two", "price": "moderate"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "bombay"}
  - utter_ask_moreupdates
@@ -93,7 +90,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "london", "people": "two", "price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_moreupdates
@@ -112,7 +108,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "location": "london", "price": "expensive"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "six"}
  - utter_ask_moreupdates
@@ -144,7 +139,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "two", "price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_location
@@ -173,7 +167,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "two", "price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_location
@@ -204,7 +197,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "location": "madrid", "price": "cheap"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "two"}
  - utter_ask_moreupdates
@@ -233,7 +225,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "eight"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_location
@@ -267,7 +258,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "location": "madrid", "price": "expensive"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "four"}
  - utter_ask_moreupdates
@@ -288,7 +278,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "people": "two", "price": "moderate"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "bombay"}
  - utter_ask_moreupdates
@@ -312,7 +301,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "people": "six", "price": "expensive"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "london"}
  - utter_ask_moreupdates
@@ -331,7 +319,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "location": "london", "price": "expensive"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "six"}
  - utter_ask_moreupdates
@@ -360,7 +347,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "madrid", "people": "two", "price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_moreupdates
@@ -389,7 +375,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "four"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_location
@@ -425,7 +410,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "rome", "people": "eight"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_price
@@ -456,7 +440,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris", "people": "four"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_price
@@ -482,7 +465,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_location
@@ -509,7 +491,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "people": "eight", "price": "moderate"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "madrid"}
  - utter_ask_moreupdates
@@ -532,7 +513,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "madrid", "price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_numpeople
@@ -563,7 +543,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "london"}
  - utter_ask_numpeople
@@ -593,7 +572,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "two", "price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_location
@@ -622,7 +600,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris", "people": "four", "price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_moreupdates
@@ -651,7 +628,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "eight"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_location
@@ -684,7 +660,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "people": "eight", "price": "expensive"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "london"}
  - utter_ask_moreupdates
@@ -716,7 +691,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "people": "four", "price": "cheap"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "madrid"}
  - utter_ask_moreupdates
@@ -737,7 +711,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "four", "price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_location
@@ -761,7 +734,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "people": "four"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "london"}
  - utter_ask_price
@@ -784,7 +756,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "people": "eight", "price": "expensive"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "bombay"}
  - utter_ask_moreupdates
@@ -810,7 +781,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "location": "london", "price": "moderate"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "four"}
  - utter_ask_moreupdates
@@ -829,7 +799,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "location": "london", "people": "four"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "expensive"}
  - utter_ask_moreupdates
@@ -856,7 +825,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "price": "cheap"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "madrid"}
  - utter_ask_numpeople
@@ -877,7 +845,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_location
@@ -900,7 +867,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "london", "people": "two"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_price
@@ -923,7 +889,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "london", "people": "eight", "price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_moreupdates
@@ -952,7 +917,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "london"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_numpeople
@@ -982,7 +946,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "six"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_location
@@ -1005,7 +968,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "location": "london", "price": "expensive"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "two"}
  - utter_ask_moreupdates
@@ -1034,7 +996,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "location": "london", "price": "cheap"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "two"}
  - utter_ask_moreupdates
@@ -1057,7 +1018,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "price": "cheap"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "bombay"}
  - utter_ask_numpeople
@@ -1085,7 +1045,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "location": "madrid"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "four"}
  - utter_ask_price
@@ -1106,7 +1065,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "madrid", "people": "eight", "price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_moreupdates
@@ -1133,7 +1091,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "people": "eight", "price": "moderate"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "paris"}
  - utter_ask_moreupdates
@@ -1163,7 +1120,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "location": "london"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "eight"}
  - utter_ask_price
@@ -1192,7 +1148,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_location
@@ -1217,7 +1172,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "location": "bombay", "price": "cheap"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "six"}
  - utter_ask_moreupdates
@@ -1242,7 +1196,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "location": "bombay", "people": "two"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "cheap"}
  - utter_ask_moreupdates
@@ -1261,7 +1214,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_location
@@ -1292,7 +1244,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "location": "paris"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "four"}
  - utter_ask_price
@@ -1315,7 +1266,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "location": "madrid", "people": "eight"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "expensive"}
  - utter_ask_moreupdates
@@ -1347,7 +1297,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "price": "cheap"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "madrid"}
  - utter_ask_numpeople
@@ -1376,7 +1325,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "london", "price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_numpeople
@@ -1401,7 +1349,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "eight"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_location
@@ -1434,7 +1381,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "location": "london", "people": "two"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "cheap"}
  - utter_ask_moreupdates
@@ -1455,7 +1401,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "location": "paris", "price": "expensive"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "four"}
  - utter_ask_moreupdates
@@ -1480,7 +1425,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "location": "rome"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "two"}
  - utter_ask_price
@@ -1503,7 +1447,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "london", "people": "eight", "price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_moreupdates
@@ -1528,7 +1471,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "location": "rome", "people": "four"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "moderate"}
  - utter_ask_moreupdates
@@ -1550,7 +1492,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "two"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_location
@@ -1579,7 +1520,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "people": "two", "price": "cheap"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "paris"}
  - utter_ask_moreupdates
@@ -1602,7 +1542,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "location": "madrid", "people": "eight"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "moderate"}
  - utter_ask_moreupdates
@@ -1621,7 +1560,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "madrid", "people": "six"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_price
@@ -1652,7 +1590,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "eight", "price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_location
@@ -1675,7 +1612,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "location": "rome", "people": "two"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "expensive"}
  - utter_ask_moreupdates
@@ -1702,7 +1638,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_numpeople
@@ -1733,7 +1668,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "london"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_numpeople
@@ -1764,7 +1698,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "madrid", "people": "four", "price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_moreupdates
@@ -1790,7 +1723,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "two"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_location
@@ -1815,7 +1747,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "madrid"}
  - utter_ask_numpeople
@@ -1841,7 +1772,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_location
@@ -1867,7 +1797,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "six"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_location
@@ -1898,7 +1827,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "bombay"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_numpeople
@@ -1929,7 +1857,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "location": "london"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "six"}
  - utter_ask_price
@@ -1950,7 +1877,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "price": "moderate"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "paris"}
  - utter_ask_numpeople
@@ -1981,7 +1907,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "people": "two", "price": "cheap"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "paris"}
  - utter_ask_moreupdates
@@ -2002,7 +1927,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "location": "rome", "people": "two"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "expensive"}
  - utter_ask_moreupdates
@@ -2024,7 +1948,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "four"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_location
@@ -2055,7 +1978,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "location": "bombay"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "eight"}
  - utter_ask_price
@@ -2086,7 +2008,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "price": "moderate"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "bombay"}
  - utter_ask_numpeople
@@ -2113,7 +2034,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_location
@@ -2139,7 +2059,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "location": "bombay", "price": "cheap"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "four"}
  - utter_ask_moreupdates
@@ -2158,7 +2077,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "two"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_location
@@ -2187,7 +2105,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "price": "moderate"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "london"}
  - utter_ask_numpeople
@@ -2218,7 +2135,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "eight", "price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_location
@@ -2243,7 +2159,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "four"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_location
@@ -2272,7 +2187,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "six"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_location
@@ -2303,7 +2217,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "two", "price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_location
@@ -2327,7 +2240,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "location": "paris"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "four"}
  - utter_ask_price
@@ -2361,7 +2273,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "madrid", "people": "eight", "price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_moreupdates
@@ -2390,7 +2301,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "paris"}
  - utter_ask_numpeople
@@ -2422,7 +2332,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "people": "eight"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "london"}
  - utter_ask_price
@@ -2454,7 +2363,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "eight"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_location
@@ -2487,7 +2395,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "location": "bombay", "people": "six"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "cheap"}
  - utter_ask_moreupdates
@@ -2506,7 +2413,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "rome"}
  - utter_ask_numpeople
@@ -2533,7 +2439,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "people": "two"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "bombay"}
  - utter_ask_price
@@ -2554,7 +2459,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "bombay", "people": "four"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_price
@@ -2582,7 +2486,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "bombay"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_numpeople
@@ -2607,7 +2510,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "price": "cheap"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "bombay"}
  - utter_ask_numpeople
@@ -2633,7 +2535,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "madrid", "people": "eight"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_price
@@ -2660,7 +2561,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "eight", "price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_location
@@ -2689,7 +2589,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris", "people": "four", "price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_moreupdates
@@ -2718,7 +2617,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "location": "bombay", "people": "four"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "cheap"}
  - utter_ask_moreupdates
@@ -2741,7 +2639,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "people": "eight", "price": "cheap"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "bombay"}
  - utter_ask_moreupdates
@@ -2773,7 +2670,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_numpeople
@@ -2798,7 +2694,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "location": "madrid", "people": "four"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "cheap"}
  - utter_ask_moreupdates
@@ -2827,7 +2722,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "eight"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_location
@@ -2858,7 +2752,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "four"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_location
@@ -2881,7 +2774,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris", "people": "four"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_price
@@ -2910,7 +2802,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "location": "madrid"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "six"}
  - utter_ask_price
@@ -2939,7 +2830,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "people": "two", "price": "moderate"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "london"}
  - utter_ask_moreupdates
@@ -2964,7 +2854,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "location": "madrid"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "four"}
  - utter_ask_price
@@ -2985,7 +2874,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "people": "four"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "rome"}
  - utter_ask_price
@@ -3012,7 +2900,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "price": "expensive"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "bombay"}
  - utter_ask_numpeople
@@ -3042,7 +2929,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "rome", "people": "two", "price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_moreupdates
@@ -3072,7 +2958,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "london"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_numpeople
@@ -3103,7 +2988,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris", "price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_numpeople
@@ -3134,7 +3018,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "madrid"}
  - utter_ask_numpeople
@@ -3165,7 +3048,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_numpeople
@@ -3196,7 +3078,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris", "people": "four", "price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_moreupdates
@@ -3215,7 +3096,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "four"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_location
@@ -3246,7 +3126,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_numpeople
@@ -3274,7 +3153,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "london"}
  - utter_ask_numpeople
@@ -3300,7 +3178,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "bombay"}
  - utter_ask_numpeople
@@ -3333,7 +3210,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "location": "paris", "price": "moderate"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "six"}
  - utter_ask_moreupdates
@@ -3355,7 +3231,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_location
@@ -3386,7 +3261,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "four", "price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_location
@@ -3409,7 +3283,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "price": "expensive"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "bombay"}
  - utter_ask_numpeople
@@ -3438,7 +3311,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "london"}
  - utter_ask_numpeople
@@ -3466,7 +3338,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "london"}
  - utter_ask_numpeople
@@ -3499,7 +3370,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "location": "madrid", "price": "cheap"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "two"}
  - utter_ask_moreupdates
@@ -3531,7 +3401,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "eight"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_location
@@ -3564,7 +3433,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "rome", "people": "six"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_price
@@ -3594,7 +3462,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "location": "madrid", "price": "moderate"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "four"}
  - utter_ask_moreupdates
@@ -3617,7 +3484,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "two", "price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_location
@@ -3645,7 +3511,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "people": "four"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "rome"}
  - utter_ask_price
@@ -3674,7 +3539,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "location": "london", "price": "expensive"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "four"}
  - utter_ask_moreupdates
@@ -3701,7 +3565,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "madrid"}
  - utter_ask_numpeople
@@ -3726,7 +3589,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "price": "moderate"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "madrid"}
  - utter_ask_numpeople
@@ -3751,7 +3613,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "people": "six", "price": "moderate"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "madrid"}
  - utter_ask_moreupdates
@@ -3777,7 +3638,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "madrid", "people": "two", "price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_moreupdates
@@ -3806,7 +3666,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "rome", "people": "six", "price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_moreupdates
@@ -3832,7 +3691,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "london", "people": "six", "price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_moreupdates
@@ -3853,7 +3711,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "people": "two", "price": "expensive"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "london"}
  - utter_ask_moreupdates
@@ -3877,7 +3734,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "price": "cheap"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "rome"}
  - utter_ask_numpeople
@@ -3901,7 +3757,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris", "people": "two", "price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_moreupdates
@@ -3928,7 +3783,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "location": "london"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "eight"}
  - utter_ask_price
@@ -3949,7 +3803,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "location": "rome"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "four"}
  - utter_ask_price
@@ -3976,7 +3829,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "madrid", "people": "eight", "price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_moreupdates
@@ -4000,7 +3852,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "location": "paris"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "four"}
  - utter_ask_price
@@ -4026,7 +3877,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "people": "six"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "rome"}
  - utter_ask_price
@@ -4055,7 +3905,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "people": "four"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "bombay"}
  - utter_ask_price
@@ -4076,7 +3925,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "location": "paris", "price": "cheap"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "four"}
  - utter_ask_moreupdates
@@ -4102,7 +3950,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "rome"}
  - utter_ask_numpeople
@@ -4133,7 +3980,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "bombay", "people": "two"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_price
@@ -4156,7 +4002,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "madrid"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_numpeople
@@ -4181,7 +4026,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "bombay"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_numpeople
@@ -4212,7 +4056,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "people": "six", "price": "moderate"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "madrid"}
  - utter_ask_moreupdates
@@ -4241,7 +4084,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "location": "rome", "people": "two"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "cheap"}
  - utter_ask_moreupdates
@@ -4270,7 +4112,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris", "people": "four", "price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_moreupdates
@@ -4295,7 +4136,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "location": "rome", "people": "eight"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "cheap"}
  - utter_ask_moreupdates
@@ -4318,7 +4158,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "price": "cheap"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "london"}
  - utter_ask_numpeople
@@ -4345,7 +4184,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "people": "four", "price": "expensive"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "rome"}
  - utter_ask_moreupdates
@@ -4369,7 +4207,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "two"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_location
@@ -4398,7 +4235,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris", "price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_numpeople
@@ -4423,7 +4259,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "bombay", "people": "six"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_price
@@ -4456,7 +4291,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "rome", "people": "two"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_price
@@ -4481,7 +4315,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris", "people": "six", "price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_moreupdates
@@ -4504,7 +4337,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris", "people": "two", "price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_moreupdates
@@ -4540,7 +4372,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "madrid"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_numpeople
@@ -4569,7 +4400,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_location
@@ -4596,7 +4426,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "bombay"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_numpeople
@@ -4625,7 +4454,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "location": "london", "people": "four"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "expensive"}
  - utter_ask_moreupdates
@@ -4654,7 +4482,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "location": "london"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "two"}
  - utter_ask_price
@@ -4685,7 +4512,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "two", "price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_location
@@ -4708,7 +4534,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "two"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_location
@@ -4736,7 +4561,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "location": "london"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "four"}
  - utter_ask_price
@@ -4757,7 +4581,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "four", "price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_location
@@ -4788,7 +4611,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "location": "london", "people": "six"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "expensive"}
  - utter_ask_moreupdates
@@ -4820,7 +4642,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "madrid"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_numpeople
@@ -4853,7 +4674,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "madrid"}
  - utter_ask_numpeople
@@ -4879,7 +4699,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "rome", "people": "eight", "price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_moreupdates
@@ -4903,7 +4722,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "price": "moderate"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "rome"}
  - utter_ask_numpeople
@@ -4933,7 +4751,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_location
@@ -4964,7 +4781,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_location
@@ -4992,7 +4808,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "four"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_location
@@ -5019,7 +4834,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_location
@@ -5056,7 +4870,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "people": "six", "price": "expensive"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "madrid"}
  - utter_ask_moreupdates
@@ -5079,7 +4892,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "people": "four", "price": "expensive"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "london"}
  - utter_ask_moreupdates
@@ -5104,7 +4916,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "rome", "price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_numpeople
@@ -5132,7 +4943,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "london", "price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_numpeople
@@ -5164,7 +4974,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "rome", "people": "eight", "price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_moreupdates
@@ -5187,7 +4996,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "location": "madrid"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "six"}
  - utter_ask_price
@@ -5216,7 +5024,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "bombay"}
  - utter_ask_numpeople
@@ -5248,7 +5055,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "two"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_location
@@ -5279,7 +5085,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_location
@@ -5311,7 +5116,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "people": "four", "price": "moderate"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "london"}
  - utter_ask_moreupdates
@@ -5337,7 +5141,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "london", "people": "four"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_price
@@ -5368,7 +5171,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "people": "two", "price": "cheap"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "paris"}
  - utter_ask_moreupdates
@@ -5398,7 +5200,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris", "people": "eight"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_price
@@ -5422,7 +5223,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "madrid"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_numpeople
@@ -5448,7 +5248,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "people": "four"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "rome"}
  - utter_ask_price
@@ -5480,7 +5279,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "bombay", "people": "six"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_price
@@ -5511,7 +5309,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris", "people": "eight", "price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_moreupdates
@@ -5536,7 +5333,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "madrid"}
  - utter_ask_numpeople
@@ -5567,7 +5363,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris", "price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_numpeople
@@ -5588,7 +5383,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "london"}
  - utter_ask_numpeople
@@ -5617,7 +5411,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "people": "four", "price": "expensive"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "paris"}
  - utter_ask_moreupdates
@@ -5647,7 +5440,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "bombay", "people": "two"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_price
@@ -5673,7 +5465,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "bombay"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_numpeople
@@ -5702,7 +5493,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "six"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_location
@@ -5727,7 +5517,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "four", "price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_location
@@ -5764,7 +5553,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "bombay"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_numpeople
@@ -5797,7 +5585,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_location
@@ -5822,7 +5609,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "eight", "price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_location
@@ -5853,7 +5639,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "eight", "price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_location
@@ -5880,7 +5665,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "madrid"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_numpeople
@@ -5913,7 +5697,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "madrid", "people": "four", "price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_moreupdates
@@ -5942,7 +5725,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "location": "paris", "people": "eight"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "cheap"}
  - utter_ask_moreupdates
@@ -5965,7 +5747,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_location
@@ -5988,7 +5769,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "bombay", "price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_numpeople
@@ -6015,7 +5795,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "price": "moderate"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "rome"}
  - utter_ask_numpeople
@@ -6046,7 +5825,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "rome", "price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_numpeople
@@ -6072,7 +5850,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "paris"}
  - utter_ask_numpeople
@@ -6097,7 +5874,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "people": "eight"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "paris"}
  - utter_ask_price
@@ -6124,7 +5900,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "four"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_location
@@ -6155,7 +5930,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "four"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_location
@@ -6189,7 +5963,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "people": "six"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "bombay"}
  - utter_ask_price
@@ -6218,7 +5991,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "two", "price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_location
@@ -6242,7 +6014,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "bombay", "price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_numpeople
@@ -6267,7 +6038,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "people": "four"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "london"}
  - utter_ask_price
@@ -6292,7 +6062,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "eight"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_location
@@ -6320,7 +6089,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "price": "expensive"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "paris"}
  - utter_ask_numpeople
@@ -6347,7 +6115,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "people": "two", "price": "moderate"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "madrid"}
  - utter_ask_moreupdates
@@ -6372,7 +6139,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "location": "rome", "price": "expensive"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "six"}
  - utter_ask_moreupdates
@@ -6399,7 +6165,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "location": "london", "price": "cheap"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "six"}
  - utter_ask_moreupdates
@@ -6421,7 +6186,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "london", "people": "four"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_price
@@ -6450,7 +6214,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "london", "people": "two"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_price
@@ -6477,7 +6240,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "paris"}
  - utter_ask_numpeople
@@ -6503,7 +6265,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "six", "price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_location
@@ -6534,7 +6295,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "london"}
  - utter_ask_numpeople
@@ -6564,7 +6324,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "bombay", "people": "six"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_price
@@ -6588,7 +6347,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "people": "four"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "london"}
  - utter_ask_price
@@ -6611,7 +6369,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris", "price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_numpeople
@@ -6632,7 +6389,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "location": "london"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "two"}
  - utter_ask_price
@@ -6653,7 +6409,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "six"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_location
@@ -6686,7 +6441,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "location": "bombay"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "two"}
  - utter_ask_price
@@ -6710,7 +6464,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "location": "rome", "price": "moderate"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "eight"}
  - utter_ask_moreupdates
@@ -6737,7 +6490,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_location
@@ -6767,7 +6519,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "madrid"}
  - utter_ask_numpeople
@@ -6796,7 +6547,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "rome", "people": "six", "price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_moreupdates
@@ -6817,7 +6567,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "madrid", "people": "two", "price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_moreupdates
@@ -6844,7 +6593,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "location": "paris", "people": "four"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "expensive"}
  - utter_ask_moreupdates
@@ -6865,7 +6613,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "london"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_numpeople
@@ -6895,7 +6642,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "two"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_location
@@ -6924,7 +6670,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "people": "six"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "london"}
  - utter_ask_price
@@ -6945,7 +6690,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "people": "four"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "paris"}
  - utter_ask_price
@@ -6972,7 +6716,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "rome", "people": "six"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_price
@@ -6999,7 +6742,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris", "people": "six"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_price
@@ -7026,7 +6768,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "price": "expensive"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "london"}
  - utter_ask_numpeople
@@ -7060,7 +6801,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "location": "london"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "four"}
  - utter_ask_price
@@ -7087,7 +6827,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "location": "bombay", "people": "four"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "moderate"}
  - utter_ask_moreupdates
@@ -7114,7 +6853,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "location": "paris", "price": "cheap"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "two"}
  - utter_ask_moreupdates
@@ -7133,7 +6871,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "location": "rome", "people": "four"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "expensive"}
  - utter_ask_moreupdates
@@ -7161,7 +6898,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "six"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_location
@@ -7190,7 +6926,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "people": "six", "price": "expensive"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "madrid"}
  - utter_ask_moreupdates
@@ -7211,7 +6946,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "people": "two", "price": "cheap"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "paris"}
  - utter_ask_moreupdates
@@ -7232,7 +6966,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "people": "six"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "rome"}
  - utter_ask_price
@@ -7262,7 +6995,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "location": "rome", "price": "moderate"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "four"}
  - utter_ask_moreupdates
@@ -7291,7 +7023,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "madrid", "people": "eight", "price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_moreupdates
@@ -7318,7 +7049,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "bombay", "price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_numpeople
@@ -7346,7 +7076,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "location": "paris", "price": "cheap"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "eight"}
  - utter_ask_moreupdates
@@ -7375,7 +7104,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "people": "six", "price": "cheap"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "madrid"}
  - utter_ask_moreupdates
@@ -7402,7 +7130,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "bombay", "price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_numpeople
@@ -7431,7 +7158,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "two", "price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_location
@@ -7458,7 +7184,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "two", "price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_location
@@ -7485,7 +7210,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "bombay"}
  - utter_ask_numpeople
@@ -7511,7 +7235,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "rome"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_numpeople
@@ -7542,7 +7265,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_location
@@ -7573,7 +7295,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "price": "expensive"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "paris"}
  - utter_ask_numpeople
@@ -7605,7 +7326,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "people": "eight"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "rome"}
  - utter_ask_price
@@ -7630,7 +7350,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_location
@@ -7660,7 +7379,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "madrid", "people": "six"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_price
@@ -7692,7 +7410,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_location
@@ -7721,7 +7438,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "people": "four"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "london"}
  - utter_ask_price
@@ -7744,7 +7460,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "rome"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_numpeople
@@ -7772,7 +7487,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_location
@@ -7803,7 +7517,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "people": "four"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "madrid"}
  - utter_ask_price
@@ -7834,7 +7547,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "two", "price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_location
@@ -7865,7 +7577,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "london", "people": "six", "price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_moreupdates
@@ -7890,7 +7601,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "people": "two", "price": "cheap"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "rome"}
  - utter_ask_moreupdates
@@ -7916,7 +7626,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "bombay"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_numpeople
@@ -7949,7 +7658,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "two", "price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_location
@@ -7978,7 +7686,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "location": "paris", "people": "eight"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "cheap"}
  - utter_ask_moreupdates
@@ -8003,7 +7710,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_numpeople
@@ -8034,7 +7740,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "location": "rome", "price": "cheap"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "eight"}
  - utter_ask_moreupdates
@@ -8058,7 +7763,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "london", "price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_numpeople
@@ -8082,7 +7786,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris", "people": "two"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_price
@@ -8106,7 +7809,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_location
@@ -8135,7 +7837,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "madrid", "people": "eight"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_price
@@ -8162,7 +7863,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "two"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_location
@@ -8196,7 +7896,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "location": "bombay"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "two"}
  - utter_ask_price
@@ -8223,7 +7922,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_numpeople
@@ -8254,7 +7952,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "bombay"}
  - utter_ask_numpeople
@@ -8285,7 +7982,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "madrid", "people": "two", "price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_moreupdates
@@ -8310,7 +8006,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "location": "paris", "price": "moderate"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "four"}
  - utter_ask_moreupdates
@@ -8335,7 +8030,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_location
@@ -8360,7 +8054,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "four"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_location
@@ -8402,7 +8095,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "location": "paris", "people": "eight"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "cheap"}
  - utter_ask_moreupdates
@@ -8431,7 +8123,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "location": "paris", "people": "two"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "expensive"}
  - utter_ask_moreupdates
@@ -8458,7 +8149,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "madrid"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_numpeople
@@ -8494,7 +8184,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "location": "london", "price": "cheap"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "eight"}
  - utter_ask_moreupdates
@@ -8523,7 +8212,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "people": "two", "price": "moderate"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "rome"}
  - utter_ask_moreupdates
@@ -8544,7 +8232,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "people": "six", "price": "moderate"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "paris"}
  - utter_ask_moreupdates
@@ -8573,7 +8260,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "location": "rome", "people": "eight"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "expensive"}
  - utter_ask_moreupdates
@@ -8595,7 +8281,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "price": "expensive"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "bombay"}
  - utter_ask_numpeople
@@ -8618,7 +8303,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "paris"}
  - utter_ask_numpeople
@@ -8647,7 +8331,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "location": "madrid", "price": "moderate"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "four"}
  - utter_ask_moreupdates
@@ -8672,7 +8355,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "location": "bombay", "price": "expensive"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "two"}
  - utter_ask_moreupdates
@@ -8699,7 +8381,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "bombay", "people": "eight"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_price
@@ -8730,7 +8411,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "location": "bombay", "people": "two"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "expensive"}
  - utter_ask_moreupdates
@@ -8762,7 +8442,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "rome", "price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_numpeople
@@ -8786,7 +8465,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "madrid", "people": "six", "price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_moreupdates
@@ -8817,7 +8495,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "people": "two"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "london"}
  - utter_ask_price
@@ -8841,7 +8518,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "location": "london", "price": "cheap"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "six"}
  - utter_ask_moreupdates
@@ -8869,7 +8545,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "four"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_location
@@ -8898,7 +8573,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "location": "rome"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "six"}
  - utter_ask_price
@@ -8926,7 +8600,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "four"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_location
@@ -8957,7 +8630,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "people": "six", "price": "cheap"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "london"}
  - utter_ask_moreupdates
@@ -8980,7 +8652,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "people": "four", "price": "moderate"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "london"}
  - utter_ask_moreupdates
@@ -9009,7 +8680,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "rome"}
  - utter_ask_numpeople
@@ -9042,7 +8712,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "location": "london", "people": "two"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "cheap"}
  - utter_ask_moreupdates
@@ -9071,7 +8740,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "people": "six", "price": "cheap"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "paris"}
  - utter_ask_moreupdates
@@ -9098,7 +8766,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "madrid"}
  - utter_ask_numpeople
@@ -9129,7 +8796,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "two", "price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_location
@@ -9156,7 +8822,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "people": "eight", "price": "cheap"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "london"}
  - utter_ask_moreupdates
@@ -9175,7 +8840,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris", "people": "four", "price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_moreupdates
@@ -9194,7 +8858,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris", "people": "eight"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_price
@@ -9222,7 +8885,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "location": "rome", "people": "four"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "cheap"}
  - utter_ask_moreupdates
@@ -9252,7 +8914,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "four"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_location
@@ -9289,7 +8950,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_numpeople
@@ -9318,7 +8978,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "people": "two"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "bombay"}
  - utter_ask_price
@@ -9345,7 +9004,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "bombay"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_numpeople
@@ -9368,7 +9026,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "bombay", "people": "six", "price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_moreupdates
@@ -9396,7 +9053,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "six", "price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_location
@@ -9428,7 +9084,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "price": "expensive"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "madrid"}
  - utter_ask_numpeople
@@ -9457,7 +9112,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris", "people": "four", "price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_moreupdates
@@ -9483,7 +9137,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "two"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_location
@@ -9506,7 +9159,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "location": "london", "price": "moderate"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "eight"}
  - utter_ask_moreupdates
@@ -9533,7 +9185,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris", "people": "eight", "price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_moreupdates
@@ -9555,7 +9206,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "price": "expensive"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "rome"}
  - utter_ask_numpeople
@@ -9586,7 +9236,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris", "people": "eight", "price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_moreupdates
@@ -9615,7 +9264,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "four"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_location
@@ -9644,7 +9292,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "location": "bombay"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "two"}
  - utter_ask_price
@@ -9670,7 +9317,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "people": "eight", "price": "expensive"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "rome"}
  - utter_ask_moreupdates
@@ -9693,7 +9339,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "people": "two", "price": "moderate"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "london"}
  - utter_ask_moreupdates
@@ -9716,7 +9361,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "location": "bombay", "price": "cheap"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "eight"}
  - utter_ask_moreupdates
@@ -9737,7 +9381,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "people": "four", "price": "moderate"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "bombay"}
  - utter_ask_moreupdates
@@ -9769,7 +9412,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "rome", "people": "six", "price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_moreupdates
@@ -9797,7 +9439,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "people": "four", "price": "expensive"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "rome"}
  - utter_ask_moreupdates
@@ -9826,7 +9467,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_location
@@ -9862,7 +9502,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "bombay"}
  - utter_ask_numpeople
@@ -9895,7 +9534,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "location": "london", "people": "four"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "cheap"}
  - utter_ask_moreupdates
@@ -9917,7 +9555,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "madrid", "people": "six", "price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_moreupdates
@@ -9943,7 +9580,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "rome", "people": "eight"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_price
@@ -9971,7 +9607,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "paris"}
  - utter_ask_numpeople
@@ -10002,7 +9637,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_location
@@ -10028,7 +9662,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "bombay", "people": "eight", "price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_moreupdates
@@ -10053,7 +9686,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "location": "rome", "people": "six"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "expensive"}
  - utter_ask_moreupdates
@@ -10074,7 +9706,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris", "price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_numpeople
@@ -10095,7 +9726,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris", "people": "six", "price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_moreupdates
@@ -10124,7 +9754,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "four"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_location
@@ -10153,7 +9782,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "location": "paris", "people": "eight"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "expensive"}
  - utter_ask_moreupdates
@@ -10182,7 +9810,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "people": "eight", "price": "moderate"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "london"}
  - utter_ask_moreupdates
@@ -10209,7 +9836,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_location
@@ -10239,7 +9865,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "bombay", "price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_numpeople
@@ -10265,7 +9890,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "people": "six", "price": "cheap"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "rome"}
  - utter_ask_moreupdates
@@ -10291,7 +9915,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "bombay"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_numpeople
@@ -10317,7 +9940,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "location": "paris"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "six"}
  - utter_ask_price
@@ -10341,7 +9963,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "two"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_location
@@ -10367,7 +9988,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "six", "price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_location
@@ -10388,7 +10008,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "eight"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_location
@@ -10411,7 +10030,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_location
@@ -10444,7 +10062,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "location": "rome", "people": "two"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "cheap"}
  - utter_ask_moreupdates
@@ -10468,7 +10085,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "price": "moderate"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "madrid"}
  - utter_ask_numpeople
@@ -10502,7 +10118,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "eight", "price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_location
@@ -10527,7 +10142,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "price": "moderate"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "bombay"}
  - utter_ask_numpeople
@@ -10555,7 +10169,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris", "people": "eight", "price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_moreupdates
@@ -10581,7 +10194,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "london"}
  - utter_ask_numpeople
@@ -10607,7 +10219,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "six"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_location
@@ -10636,7 +10247,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "people": "four", "price": "cheap"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "london"}
  - utter_ask_moreupdates
@@ -10665,7 +10275,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "four", "price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_location
@@ -10701,7 +10310,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "london", "people": "four", "price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_moreupdates
@@ -10720,7 +10328,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_location
@@ -10752,7 +10359,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "people": "eight", "price": "cheap"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "paris"}
  - utter_ask_moreupdates
@@ -10782,7 +10388,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "people": "four", "price": "moderate"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "london"}
  - utter_ask_moreupdates
@@ -10811,7 +10416,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "rome"}
  - utter_ask_numpeople
@@ -10836,7 +10440,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "location": "paris", "price": "moderate"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "six"}
  - utter_ask_moreupdates
@@ -10863,7 +10466,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "london", "people": "eight"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_price
@@ -10888,7 +10490,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris", "people": "two"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_price
@@ -10912,7 +10513,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "two"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_location
@@ -10941,7 +10541,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "london", "people": "six", "price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_moreupdates
@@ -10965,7 +10564,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "location": "rome", "people": "two"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "expensive"}
  - utter_ask_moreupdates
@@ -10994,7 +10592,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "people": "four"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "london"}
  - utter_ask_price
@@ -11018,7 +10615,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "people": "two"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "bombay"}
  - utter_ask_price
@@ -11042,7 +10638,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "bombay"}
  - utter_ask_numpeople
@@ -11071,7 +10666,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "people": "six", "price": "cheap"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "rome"}
  - utter_ask_moreupdates
@@ -11099,7 +10693,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "location": "paris", "price": "moderate"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "four"}
  - utter_ask_moreupdates
@@ -11128,7 +10721,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "location": "paris", "price": "moderate"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "eight"}
  - utter_ask_moreupdates
@@ -11154,7 +10746,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "four"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_location
@@ -11183,7 +10774,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "madrid", "people": "two"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_price
@@ -11213,7 +10803,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "price": "cheap"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "paris"}
  - utter_ask_numpeople
@@ -11250,7 +10839,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "rome"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_numpeople
@@ -11281,7 +10869,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "location": "madrid", "price": "cheap"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "six"}
  - utter_ask_moreupdates
@@ -11307,7 +10894,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "location": "london"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "eight"}
  - utter_ask_price
@@ -11336,7 +10922,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "location": "rome", "people": "two"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "moderate"}
  - utter_ask_moreupdates
@@ -11363,7 +10948,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "four", "price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_location
@@ -11386,7 +10970,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "location": "rome", "price": "moderate"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "four"}
  - utter_ask_moreupdates
@@ -11411,7 +10994,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "location": "rome", "people": "four"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "moderate"}
  - utter_ask_moreupdates
@@ -11440,7 +11022,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "price": "cheap"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "london"}
  - utter_ask_numpeople
@@ -11469,7 +11050,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "people": "two", "price": "cheap"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "paris"}
  - utter_ask_moreupdates
@@ -11494,7 +11074,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "location": "paris", "price": "cheap"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "six"}
  - utter_ask_moreupdates
@@ -11513,7 +11092,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "eight"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_location
@@ -11546,7 +11124,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "location": "madrid", "people": "six"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "moderate"}
  - utter_ask_moreupdates
@@ -11572,7 +11149,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "four"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_location
@@ -11602,7 +11178,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "location": "paris", "people": "two"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "expensive"}
  - utter_ask_moreupdates
@@ -11631,7 +11206,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "rome"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_numpeople
@@ -11660,7 +11234,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "london", "people": "eight", "price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_moreupdates
@@ -11679,7 +11252,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "rome"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_numpeople
@@ -11707,7 +11279,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "location": "paris", "people": "six"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "cheap"}
  - utter_ask_moreupdates
@@ -11734,7 +11305,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "people": "six", "price": "cheap"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "paris"}
  - utter_ask_moreupdates
@@ -11753,7 +11323,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "bombay", "people": "eight", "price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_moreupdates
@@ -11785,7 +11354,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "two", "price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_location
@@ -11806,7 +11374,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_numpeople
@@ -11839,7 +11406,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris", "people": "two"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_price
@@ -11870,7 +11436,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "location": "paris"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "four"}
  - utter_ask_price
@@ -11896,7 +11461,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "location": "bombay"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "two"}
  - utter_ask_price
@@ -11922,7 +11486,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "price": "cheap"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "paris"}
  - utter_ask_numpeople
@@ -11951,7 +11514,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "rome", "people": "four"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_price
@@ -11974,7 +11536,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "four"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_location
@@ -12005,7 +11566,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "six"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_location
@@ -12037,7 +11597,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_location
@@ -12067,7 +11626,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "location": "madrid", "price": "cheap"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "six"}
  - utter_ask_moreupdates
@@ -12088,7 +11646,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_location
@@ -12119,7 +11676,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "eight", "price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_location
@@ -12142,7 +11698,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "people": "six", "price": "cheap"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "bombay"}
  - utter_ask_moreupdates
@@ -12169,7 +11724,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "people": "four", "price": "cheap"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "paris"}
  - utter_ask_moreupdates
@@ -12196,7 +11750,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "location": "london", "price": "moderate"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "six"}
  - utter_ask_moreupdates
@@ -12219,7 +11772,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "two", "price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_location
@@ -12248,7 +11800,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "rome", "people": "eight", "price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_moreupdates
@@ -12278,7 +11829,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "eight", "price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_location
@@ -12313,7 +11863,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_location
@@ -12343,7 +11892,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "price": "expensive"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "rome"}
  - utter_ask_numpeople
@@ -12374,7 +11922,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "madrid"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_numpeople
@@ -12397,7 +11944,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "rome", "people": "eight", "price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_moreupdates
@@ -12420,7 +11966,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "people": "two"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "bombay"}
  - utter_ask_price
@@ -12447,7 +11992,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "location": "paris", "people": "four"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "cheap"}
  - utter_ask_moreupdates
@@ -12474,7 +12018,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "rome"}
  - utter_ask_numpeople
@@ -12507,7 +12050,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "london", "people": "six", "price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_moreupdates
@@ -12532,7 +12074,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "madrid"}
  - utter_ask_numpeople
@@ -12563,7 +12104,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "rome"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_numpeople
@@ -12592,7 +12132,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "people": "two", "price": "moderate"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "bombay"}
  - utter_ask_moreupdates
@@ -12622,7 +12161,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "people": "eight"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "paris"}
  - utter_ask_price
@@ -12653,7 +12191,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "london", "people": "two"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_price
@@ -12674,7 +12211,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "rome"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_numpeople
@@ -12707,7 +12243,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "price": "cheap"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "paris"}
  - utter_ask_numpeople
@@ -12741,7 +12276,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "paris"}
  - utter_ask_numpeople
@@ -12770,7 +12304,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "four"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_location
@@ -12796,7 +12329,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "bombay", "people": "two", "price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_moreupdates
@@ -12823,7 +12355,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_location
@@ -12853,7 +12384,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "price": "cheap"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "london"}
  - utter_ask_numpeople
@@ -12884,7 +12414,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "location": "madrid", "people": "six"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "cheap"}
  - utter_ask_moreupdates
@@ -12910,7 +12439,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "madrid"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_numpeople
@@ -12940,7 +12468,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "people": "four"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "paris"}
  - utter_ask_price
@@ -12963,7 +12490,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "price": "moderate"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "london"}
  - utter_ask_numpeople
@@ -12984,7 +12510,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "eight"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_location
@@ -13012,7 +12537,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "location": "madrid", "people": "six"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "expensive"}
  - utter_ask_moreupdates
@@ -13035,7 +12559,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "location": "paris"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "eight"}
  - utter_ask_price
@@ -13060,7 +12583,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "price": "moderate"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "madrid"}
  - utter_ask_numpeople
@@ -13086,7 +12608,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "people": "two"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "bombay"}
  - utter_ask_price
@@ -13116,7 +12637,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "four", "price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_location
@@ -13142,7 +12662,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_numpeople
@@ -13173,7 +12692,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "location": "london", "people": "two"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "cheap"}
  - utter_ask_moreupdates
@@ -13197,7 +12715,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_numpeople
@@ -13222,7 +12739,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "location": "london", "people": "six"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "expensive"}
  - utter_ask_moreupdates
@@ -13244,7 +12760,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "london"}
  - utter_ask_numpeople
@@ -13271,7 +12786,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris", "price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_numpeople
@@ -13300,7 +12814,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "location": "bombay", "price": "expensive"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "eight"}
  - utter_ask_moreupdates
@@ -13328,7 +12841,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "location": "paris"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "four"}
  - utter_ask_price
@@ -13362,7 +12874,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "location": "paris", "price": "moderate"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "six"}
  - utter_ask_moreupdates
@@ -13385,7 +12896,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "london", "price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_numpeople
@@ -13408,7 +12918,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "price": "moderate"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "london"}
  - utter_ask_numpeople
@@ -13431,7 +12940,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "london"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_numpeople
@@ -13464,7 +12972,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "london", "people": "six", "price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_moreupdates
@@ -13487,7 +12994,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "madrid", "people": "eight"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_price
@@ -13519,7 +13025,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "people": "four"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "london"}
  - utter_ask_price
@@ -13550,7 +13055,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "people": "six", "price": "moderate"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "paris"}
  - utter_ask_moreupdates
@@ -13577,7 +13081,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "madrid"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_numpeople
@@ -13600,7 +13103,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "two"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_location
@@ -13625,7 +13127,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "location": "bombay"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "two"}
  - utter_ask_price
@@ -13651,7 +13152,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "people": "two", "price": "moderate"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "rome"}
  - utter_ask_moreupdates
@@ -13675,7 +13175,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "location": "paris", "price": "moderate"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "eight"}
  - utter_ask_moreupdates
@@ -13704,7 +13203,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "rome", "people": "six", "price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_moreupdates
@@ -13734,7 +13232,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_numpeople
@@ -13762,7 +13259,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_location
@@ -13793,7 +13289,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "price": "moderate"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "bombay"}
  - utter_ask_numpeople
@@ -13821,7 +13316,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_location
@@ -13847,7 +13341,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "people": "two", "price": "expensive"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "london"}
  - utter_ask_moreupdates
@@ -13879,7 +13372,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "people": "four"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "rome"}
  - utter_ask_price
@@ -13913,7 +13405,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "paris"}
  - utter_ask_numpeople
@@ -13942,7 +13433,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "people": "six", "price": "moderate"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "rome"}
  - utter_ask_moreupdates
@@ -13966,7 +13456,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "people": "six", "price": "expensive"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "madrid"}
  - utter_ask_moreupdates
@@ -13995,7 +13484,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "eight"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_location
@@ -14022,7 +13510,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "location": "rome"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "four"}
  - utter_ask_price
@@ -14046,7 +13533,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "rome", "price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_numpeople
@@ -14073,7 +13559,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "two"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_location
@@ -14103,7 +13588,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "price": "cheap"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "paris"}
  - utter_ask_numpeople
@@ -14127,7 +13611,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "people": "six"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "paris"}
  - utter_ask_price
@@ -14158,7 +13641,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "location": "london", "price": "cheap"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "eight"}
  - utter_ask_moreupdates
@@ -14183,7 +13665,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "bombay", "people": "two", "price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_moreupdates
@@ -14207,7 +13688,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "location": "bombay"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "four"}
  - utter_ask_price
@@ -14237,7 +13717,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "four", "price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_location
@@ -14262,7 +13741,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "people": "six", "price": "cheap"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "madrid"}
  - utter_ask_moreupdates
@@ -14281,7 +13759,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "location": "paris", "price": "moderate"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "six"}
  - utter_ask_moreupdates
@@ -14311,7 +13788,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "bombay", "people": "four"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_price
@@ -14336,7 +13812,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris", "people": "two", "price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_moreupdates
@@ -14360,7 +13835,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "four", "price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_location
@@ -14387,7 +13861,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "location": "london"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "eight"}
  - utter_ask_price
@@ -14414,7 +13887,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris", "people": "four"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_price
@@ -14435,7 +13907,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "price": "expensive"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "bombay"}
  - utter_ask_numpeople
@@ -14456,7 +13927,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "people": "six", "price": "expensive"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "bombay"}
  - utter_ask_moreupdates
@@ -14485,7 +13955,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "four", "price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_location
@@ -14511,7 +13980,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "location": "london", "price": "expensive"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "six"}
  - utter_ask_moreupdates
@@ -14540,7 +14008,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "location": "madrid"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "six"}
  - utter_ask_price
@@ -14569,7 +14036,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "two", "price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_location
@@ -14598,7 +14064,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "london"}
  - utter_ask_numpeople
@@ -14624,7 +14089,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "location": "bombay", "people": "six"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "expensive"}
  - utter_ask_moreupdates
@@ -14647,7 +14111,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "london"}
  - utter_ask_numpeople
@@ -14676,7 +14139,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "people": "four", "price": "cheap"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "madrid"}
  - utter_ask_moreupdates
@@ -14699,7 +14161,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "eight", "price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_location
@@ -14727,7 +14188,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_location
@@ -14757,7 +14217,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_location
@@ -14790,7 +14249,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "four", "price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_location
@@ -14813,7 +14271,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "people": "six"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "london"}
  - utter_ask_price
@@ -14847,7 +14304,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_location
@@ -14872,7 +14328,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "price": "cheap"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "rome"}
  - utter_ask_numpeople
@@ -14893,7 +14348,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "london", "people": "two"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_price
@@ -14916,7 +14370,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "eight", "price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_location
@@ -14947,7 +14400,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "people": "four", "price": "cheap"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "london"}
  - utter_ask_moreupdates
@@ -14972,7 +14424,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_numpeople
@@ -14999,7 +14450,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "london", "people": "six", "price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_moreupdates
@@ -15025,7 +14475,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "london", "price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_numpeople
@@ -15050,7 +14499,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "madrid"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_numpeople
@@ -15081,7 +14529,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris", "people": "eight"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_price
@@ -15104,7 +14551,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "eight", "price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_location
@@ -15138,7 +14584,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "price": "cheap"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "rome"}
  - utter_ask_numpeople
@@ -15164,7 +14609,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_location
@@ -15197,7 +14641,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "location": "rome", "price": "expensive"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "two"}
  - utter_ask_moreupdates
@@ -15222,7 +14665,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "people": "six", "price": "moderate"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "bombay"}
  - utter_ask_moreupdates
@@ -15241,7 +14683,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "madrid", "people": "six"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_price
@@ -15272,7 +14713,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "location": "london"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "four"}
  - utter_ask_price
@@ -15301,7 +14741,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "london"}
  - utter_ask_numpeople
@@ -15326,7 +14765,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "paris"}
  - utter_ask_numpeople
@@ -15354,7 +14792,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "london"}
  - utter_ask_numpeople
@@ -15383,7 +14820,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "eight"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_location
@@ -15410,7 +14846,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris", "people": "four"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_price
@@ -15433,7 +14868,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "location": "madrid", "people": "two"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "cheap"}
  - utter_ask_moreupdates
@@ -15463,7 +14897,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "bombay"}
  - utter_ask_numpeople
@@ -15488,7 +14921,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "six"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_location
@@ -15524,7 +14956,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "eight"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_location
@@ -15551,7 +14982,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_location
@@ -15580,7 +15010,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "six"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_location
@@ -15611,7 +15040,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "people": "two"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "rome"}
  - utter_ask_price
@@ -15640,7 +15068,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "two"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_location
@@ -15663,7 +15090,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_location
@@ -15691,7 +15117,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "madrid"}
  - utter_ask_numpeople
@@ -15721,7 +15146,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "london", "people": "four", "price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_moreupdates
@@ -15750,7 +15174,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "rome", "people": "eight", "price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_moreupdates
@@ -15772,7 +15195,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "people": "six"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "paris"}
  - utter_ask_price
@@ -15800,7 +15222,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "four"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_location
@@ -15833,7 +15254,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "six"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_location
@@ -15862,7 +15282,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "location": "bombay", "price": "moderate"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "two"}
  - utter_ask_moreupdates
@@ -15887,7 +15306,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "location": "paris", "people": "eight"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "moderate"}
  - utter_ask_moreupdates
@@ -15912,7 +15330,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "price": "moderate"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "madrid"}
  - utter_ask_numpeople
@@ -15941,7 +15358,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_location
@@ -15967,7 +15383,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "people": "six", "price": "cheap"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "bombay"}
  - utter_ask_moreupdates
@@ -15988,7 +15403,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "location": "paris", "price": "expensive"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "two"}
  - utter_ask_moreupdates
@@ -16011,7 +15425,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "people": "eight", "price": "cheap"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "paris"}
  - utter_ask_moreupdates
@@ -16043,7 +15456,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "rome"}
  - utter_ask_numpeople
@@ -16070,7 +15482,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "people": "six"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "rome"}
  - utter_ask_price
@@ -16091,7 +15502,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "bombay", "people": "two", "price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_moreupdates
@@ -16110,7 +15520,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "four"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_location
@@ -16138,7 +15547,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "rome", "people": "eight", "price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_moreupdates
@@ -16159,7 +15567,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "people": "six"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "rome"}
  - utter_ask_price
@@ -16182,7 +15589,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "madrid", "people": "eight", "price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_moreupdates
@@ -16209,7 +15615,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "two", "price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_location
@@ -16234,7 +15639,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "location": "paris", "people": "six"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "expensive"}
  - utter_ask_moreupdates
@@ -16253,7 +15657,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "location": "london"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "eight"}
  - utter_ask_price
@@ -16280,7 +15683,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "people": "eight", "price": "expensive"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "london"}
  - utter_ask_moreupdates
@@ -16312,7 +15714,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris", "people": "eight"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_price
@@ -16340,7 +15741,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "price": "moderate"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "rome"}
  - utter_ask_numpeople
@@ -16364,7 +15764,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "rome"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_numpeople
@@ -16393,7 +15792,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "paris"}
  - utter_ask_numpeople
@@ -16429,7 +15827,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "people": "four"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "london"}
  - utter_ask_price
@@ -16453,7 +15850,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "people": "two", "price": "moderate"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "bombay"}
  - utter_ask_moreupdates
@@ -16472,7 +15868,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "madrid", "people": "four"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_price
@@ -16497,7 +15892,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "bombay", "people": "eight", "price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_moreupdates
@@ -16526,7 +15920,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "four", "price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_location
@@ -16551,7 +15944,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "location": "rome", "price": "cheap"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "six"}
  - utter_ask_moreupdates
@@ -16573,7 +15965,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_numpeople
@@ -16606,7 +15997,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "location": "paris"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "six"}
  - utter_ask_price
@@ -16635,7 +16025,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_location
@@ -16666,7 +16055,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "six"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_location
@@ -16699,7 +16087,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "location": "paris", "price": "moderate"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "two"}
  - utter_ask_moreupdates
@@ -16726,7 +16113,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "two"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_location
@@ -16757,7 +16143,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "price": "cheap"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "madrid"}
  - utter_ask_numpeople
@@ -16780,7 +16165,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "madrid"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_numpeople
@@ -16811,7 +16195,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "location": "bombay", "people": "four"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "expensive"}
  - utter_ask_moreupdates
@@ -16839,7 +16222,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "location": "madrid", "people": "six"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "cheap"}
  - utter_ask_moreupdates
@@ -16870,7 +16252,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "price": "expensive"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "rome"}
  - utter_ask_numpeople
@@ -16895,7 +16276,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "four"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_location
@@ -16924,7 +16304,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_numpeople
@@ -16953,7 +16332,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "people": "six", "price": "cheap"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "paris"}
  - utter_ask_moreupdates
@@ -16982,7 +16360,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "price": "cheap"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "london"}
  - utter_ask_numpeople
@@ -17005,7 +16382,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris", "people": "eight", "price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_moreupdates
@@ -17028,7 +16404,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "rome"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_numpeople
@@ -17053,7 +16428,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "four"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_location
@@ -17083,7 +16457,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "location": "paris", "price": "moderate"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "six"}
  - utter_ask_moreupdates
@@ -17104,7 +16477,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_numpeople
@@ -17138,7 +16510,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "rome"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_numpeople
@@ -17165,7 +16536,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "people": "four"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "bombay"}
  - utter_ask_price
@@ -17192,7 +16562,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "two", "price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_location
@@ -17219,7 +16588,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "location": "madrid", "price": "cheap"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "two"}
  - utter_ask_moreupdates
@@ -17238,7 +16606,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "rome", "price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_numpeople
@@ -17269,7 +16636,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "location": "paris"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "two"}
  - utter_ask_price
@@ -17290,7 +16656,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "four"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_location
@@ -17319,7 +16684,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "price": "cheap"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "paris"}
  - utter_ask_numpeople
@@ -17344,7 +16708,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "location": "madrid", "people": "four"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "expensive"}
  - utter_ask_moreupdates
@@ -17373,7 +16736,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "location": "rome", "price": "moderate"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "four"}
  - utter_ask_moreupdates
@@ -17392,7 +16754,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "london", "price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_numpeople
@@ -17417,7 +16778,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "people": "two"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "bombay"}
  - utter_ask_price
@@ -17444,7 +16804,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "london"}
  - utter_ask_numpeople
@@ -17473,7 +16832,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_numpeople
@@ -17499,7 +16857,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "madrid", "people": "two", "price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_moreupdates
@@ -17522,7 +16879,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "eight"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_location
@@ -17547,7 +16903,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "people": "six", "price": "moderate"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "london"}
  - utter_ask_moreupdates
@@ -17572,7 +16927,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_location
@@ -17597,7 +16951,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "price": "expensive"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "paris"}
  - utter_ask_numpeople
@@ -17630,7 +16983,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "london"}
  - utter_ask_numpeople
@@ -17663,7 +17015,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "rome"}
  - utter_ask_numpeople
@@ -17696,7 +17047,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "london"}
  - utter_ask_numpeople
@@ -17721,7 +17071,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "six", "price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_location
@@ -17750,7 +17099,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "london", "people": "eight", "price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_moreupdates
@@ -17779,7 +17127,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "people": "eight"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "madrid"}
  - utter_ask_price
@@ -17804,7 +17151,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_numpeople
@@ -17835,7 +17181,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "london", "people": "two", "price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_moreupdates
@@ -17861,7 +17206,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "bombay"}
  - utter_ask_numpeople
@@ -17894,7 +17238,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "rome"}
  - utter_ask_numpeople
@@ -17925,7 +17268,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "location": "rome", "price": "cheap"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "four"}
  - utter_ask_moreupdates
@@ -17948,7 +17290,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "paris"}
  - utter_ask_numpeople
@@ -17975,7 +17316,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "eight"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_location
@@ -18008,7 +17348,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "london"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_numpeople
@@ -18038,7 +17377,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "location": "madrid", "price": "expensive"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "six"}
  - utter_ask_moreupdates
@@ -18062,7 +17400,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "people": "eight"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "paris"}
  - utter_ask_price
@@ -18085,7 +17422,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "location": "london", "price": "cheap"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "four"}
  - utter_ask_moreupdates
@@ -18106,7 +17442,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "madrid"}
  - utter_ask_numpeople
@@ -18133,7 +17468,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "two", "price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_location
@@ -18154,7 +17488,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "location": "paris"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "six"}
  - utter_ask_price
@@ -18181,7 +17514,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "six"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_location
@@ -18214,7 +17546,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "location": "madrid", "price": "cheap"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "six"}
  - utter_ask_moreupdates
@@ -18238,7 +17569,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "people": "eight", "price": "cheap"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "bombay"}
  - utter_ask_moreupdates
@@ -18267,7 +17597,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "location": "bombay"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "six"}
  - utter_ask_price
@@ -18292,7 +17621,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "madrid"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_numpeople
@@ -18325,7 +17653,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "price": "moderate"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "paris"}
  - utter_ask_numpeople
@@ -18354,7 +17681,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_location
@@ -18390,7 +17716,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "people": "two", "price": "moderate"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "bombay"}
  - utter_ask_moreupdates
@@ -18416,7 +17741,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "location": "madrid"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "six"}
  - utter_ask_price
@@ -18447,7 +17771,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "people": "eight", "price": "moderate"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "london"}
  - utter_ask_moreupdates
@@ -18470,7 +17793,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "price": "moderate"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "bombay"}
  - utter_ask_numpeople
@@ -18491,7 +17813,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "four"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_location
@@ -18521,7 +17842,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "people": "eight", "price": "cheap"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "paris"}
  - utter_ask_moreupdates
@@ -18540,7 +17860,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "location": "london", "people": "four"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "moderate"}
  - utter_ask_moreupdates
@@ -18562,7 +17881,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "four"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_location
@@ -18592,7 +17910,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "two"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_location
@@ -18620,7 +17937,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "madrid"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_numpeople
@@ -18647,7 +17963,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "london", "people": "two", "price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_moreupdates
@@ -18668,7 +17983,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "people": "eight"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "paris"}
  - utter_ask_price
@@ -18695,7 +18009,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "location": "bombay"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "six"}
  - utter_ask_price
@@ -18729,7 +18042,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "bombay"}
  - utter_ask_numpeople
@@ -18762,7 +18074,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "price": "moderate"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "bombay"}
  - utter_ask_numpeople
@@ -18783,7 +18094,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "rome", "people": "eight", "price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_moreupdates
@@ -18805,7 +18115,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "location": "paris", "price": "moderate"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "six"}
  - utter_ask_moreupdates
@@ -18830,7 +18139,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "people": "four"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "paris"}
  - utter_ask_price
@@ -18855,7 +18163,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "location": "madrid", "price": "cheap"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "four"}
  - utter_ask_moreupdates
@@ -18879,7 +18186,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "madrid"}
  - utter_ask_numpeople
@@ -18906,7 +18212,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_location
@@ -18935,7 +18240,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "madrid"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_numpeople
@@ -18961,7 +18265,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "people": "four"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "madrid"}
  - utter_ask_price
@@ -18985,7 +18288,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "location": "madrid", "price": "cheap"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "two"}
  - utter_ask_moreupdates
@@ -19012,7 +18314,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_location
@@ -19048,7 +18349,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "people": "two", "price": "expensive"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "bombay"}
  - utter_ask_moreupdates
@@ -19075,7 +18375,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_location
@@ -19102,7 +18401,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "four"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_location
@@ -19130,7 +18428,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "madrid", "people": "two", "price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_moreupdates
@@ -19156,7 +18453,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "price": "expensive"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "paris"}
  - utter_ask_numpeople
@@ -19191,7 +18487,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "people": "two"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "rome"}
  - utter_ask_price
@@ -19220,7 +18515,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "location": "paris", "people": "eight"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "cheap"}
  - utter_ask_moreupdates
@@ -19245,7 +18539,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris", "price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_numpeople
@@ -19274,7 +18567,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "eight"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_location
@@ -19307,7 +18599,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "london"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_numpeople
@@ -19343,7 +18634,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "people": "two", "price": "moderate"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "london"}
  - utter_ask_moreupdates
@@ -19368,7 +18658,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "bombay", "people": "six"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_price
@@ -19389,7 +18678,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "six", "price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_location
@@ -19420,7 +18708,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "price": "cheap"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "madrid"}
  - utter_ask_numpeople
@@ -19445,7 +18732,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "bombay"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_numpeople
@@ -19478,7 +18764,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "people": "four", "price": "expensive"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "rome"}
  - utter_ask_moreupdates
@@ -19497,7 +18782,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "people": "two", "price": "moderate"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "london"}
  - utter_ask_moreupdates
@@ -19526,7 +18810,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "bombay", "people": "six", "price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_moreupdates
@@ -19554,7 +18837,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_location
@@ -19583,7 +18865,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "location": "london", "people": "two"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "expensive"}
  - utter_ask_moreupdates
@@ -19612,7 +18893,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_location
@@ -19645,7 +18925,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "location": "madrid", "price": "cheap"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "four"}
  - utter_ask_moreupdates
@@ -19669,7 +18948,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "location": "paris", "price": "cheap"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "six"}
  - utter_ask_moreupdates
@@ -19691,7 +18969,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "four"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_location
@@ -19721,7 +18998,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "location": "paris", "people": "six"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "cheap"}
  - utter_ask_moreupdates
@@ -19748,7 +19024,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "madrid", "people": "six"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_price
@@ -19782,7 +19057,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "bombay", "people": "six"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_price
@@ -19812,7 +19086,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "location": "bombay"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "six"}
  - utter_ask_price
@@ -19833,7 +19106,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "people": "six"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "paris"}
  - utter_ask_price
@@ -19862,7 +19134,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "location": "bombay", "people": "eight"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "expensive"}
  - utter_ask_moreupdates
@@ -19889,7 +19160,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "people": "four"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "london"}
  - utter_ask_price
@@ -19914,7 +19184,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "location": "london", "people": "six"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "cheap"}
  - utter_ask_moreupdates
@@ -19939,7 +19208,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "london"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_numpeople
@@ -19972,7 +19240,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "london", "people": "six"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_price
@@ -20003,7 +19270,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "eight", "price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_location
@@ -20035,7 +19301,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_location
@@ -20066,7 +19331,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "location": "paris", "price": "expensive"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "four"}
  - utter_ask_moreupdates
@@ -20091,7 +19355,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "location": "paris"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "two"}
  - utter_ask_price
@@ -20116,7 +19379,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "location": "rome", "price": "expensive"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "eight"}
  - utter_ask_moreupdates
@@ -20142,7 +19404,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_location
@@ -20171,7 +19432,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris", "people": "two", "price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_moreupdates
@@ -20190,7 +19450,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "people": "six", "price": "moderate"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "paris"}
  - utter_ask_moreupdates
@@ -20213,7 +19472,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "london"}
  - utter_ask_numpeople
@@ -20240,7 +19498,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris", "people": "six"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_price
@@ -20267,7 +19524,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "price": "moderate"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "madrid"}
  - utter_ask_numpeople
@@ -20298,7 +19554,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "rome"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_numpeople
@@ -20327,7 +19582,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "four", "price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_location
@@ -20358,7 +19612,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "location": "madrid", "people": "four"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "cheap"}
  - utter_ask_moreupdates
@@ -20387,7 +19640,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "location": "paris", "price": "cheap"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "six"}
  - utter_ask_moreupdates
@@ -20406,7 +19658,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "bombay"}
  - utter_ask_numpeople
@@ -20433,7 +19684,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "madrid", "price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_numpeople
@@ -20460,7 +19710,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "bombay", "people": "eight", "price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_moreupdates
@@ -20479,7 +19728,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "eight"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_location
@@ -20508,7 +19756,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "location": "rome", "people": "eight"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "expensive"}
  - utter_ask_moreupdates
@@ -20529,7 +19776,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris", "people": "six"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_price
@@ -20556,7 +19802,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "location": "rome", "people": "two"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "cheap"}
  - utter_ask_moreupdates
@@ -20581,7 +19826,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris", "people": "six", "price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_moreupdates
@@ -20606,7 +19850,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "location": "london"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "two"}
  - utter_ask_price
@@ -20635,7 +19878,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "price": "moderate"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "london"}
  - utter_ask_numpeople
@@ -20661,7 +19903,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "location": "london"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "six"}
  - utter_ask_price
@@ -20690,7 +19931,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "eight"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_location
@@ -20721,7 +19961,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "eight", "price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_location
@@ -20752,7 +19991,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "people": "six", "price": "expensive"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "rome"}
  - utter_ask_moreupdates
@@ -20774,7 +20012,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "location": "paris"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "eight"}
  - utter_ask_price
@@ -20799,7 +20036,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris", "people": "eight"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_price
@@ -20828,7 +20064,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "location": "paris", "price": "cheap"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "two"}
  - utter_ask_moreupdates
@@ -20857,7 +20092,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "location": "rome"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "eight"}
  - utter_ask_price
@@ -20886,7 +20120,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "people": "four", "price": "moderate"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "paris"}
  - utter_ask_moreupdates
@@ -20911,7 +20144,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "location": "london", "people": "two"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "cheap"}
  - utter_ask_moreupdates
@@ -20936,7 +20168,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "rome"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_numpeople
@@ -20964,7 +20195,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "people": "six", "price": "expensive"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "bombay"}
  - utter_ask_moreupdates
@@ -20991,7 +20221,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "london"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_numpeople
@@ -21030,7 +20259,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "location": "bombay", "people": "two"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "moderate"}
  - utter_ask_moreupdates
@@ -21059,7 +20287,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris", "people": "six"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_price
@@ -21080,7 +20307,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_location
@@ -21117,7 +20343,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_location
@@ -21145,7 +20370,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_location
@@ -21168,7 +20392,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "people": "four", "price": "cheap"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "paris"}
  - utter_ask_moreupdates
@@ -21192,7 +20415,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_numpeople
@@ -21215,7 +20437,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "location": "madrid", "people": "six"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "expensive"}
  - utter_ask_moreupdates
@@ -21238,7 +20459,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "bombay"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_numpeople
@@ -21273,7 +20493,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "location": "london", "people": "two"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "cheap"}
  - utter_ask_moreupdates
@@ -21292,7 +20511,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris", "people": "four", "price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_moreupdates
@@ -21321,7 +20539,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris", "people": "six", "price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_moreupdates
@@ -21344,7 +20561,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "location": "london", "people": "two"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "moderate"}
  - utter_ask_moreupdates
@@ -21363,7 +20579,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_location
@@ -21393,7 +20608,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_location
@@ -21420,7 +20634,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_numpeople
@@ -21445,7 +20658,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "people": "eight"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "london"}
  - utter_ask_price
@@ -21473,7 +20685,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "madrid"}
  - utter_ask_numpeople
@@ -21506,7 +20717,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "london"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_numpeople
@@ -21542,7 +20752,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "four"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_location
@@ -21570,7 +20779,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "paris"}
  - utter_ask_numpeople
@@ -21599,7 +20807,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "people": "four"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "madrid"}
  - utter_ask_price
@@ -21627,7 +20834,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "location": "bombay", "people": "six"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "moderate"}
  - utter_ask_moreupdates
@@ -21652,7 +20858,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "six"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_location
@@ -21678,7 +20883,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "people": "two"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "rome"}
  - utter_ask_price
@@ -21704,7 +20908,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "location": "bombay"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "four"}
  - utter_ask_price
@@ -21731,7 +20934,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "location": "london"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "six"}
  - utter_ask_price
@@ -21763,7 +20965,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "four", "price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_location
@@ -21784,7 +20985,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "price": "moderate"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "paris"}
  - utter_ask_numpeople
@@ -21809,7 +21009,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "location": "madrid", "people": "two"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "expensive"}
  - utter_ask_moreupdates
@@ -21837,7 +21036,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris", "price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_numpeople
@@ -21865,7 +21063,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "location": "rome", "people": "two"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "moderate"}
  - utter_ask_moreupdates
@@ -21895,7 +21092,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "london", "price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_numpeople
@@ -21922,7 +21118,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "location": "madrid"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "two"}
  - utter_ask_price
@@ -21949,7 +21144,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "people": "four", "price": "cheap"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "bombay"}
  - utter_ask_moreupdates
@@ -21973,7 +21167,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "rome"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_numpeople
@@ -22006,7 +21199,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "rome"}
  - utter_ask_numpeople
@@ -22031,7 +21223,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris", "people": "two", "price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_moreupdates
@@ -22053,7 +21244,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "rome"}
  - utter_ask_numpeople
@@ -22092,7 +21282,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "london"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_numpeople
@@ -22117,7 +21306,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "two", "price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_location
@@ -22147,7 +21335,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "location": "rome", "price": "cheap"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "six"}
  - utter_ask_moreupdates
@@ -22174,7 +21361,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "two", "price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_location
@@ -22205,7 +21391,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "four"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_location
@@ -22231,7 +21416,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "bombay", "price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_numpeople
@@ -22262,7 +21446,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "rome", "price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_numpeople
@@ -22293,7 +21476,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "location": "paris", "price": "expensive"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "eight"}
  - utter_ask_moreupdates
@@ -22322,7 +21504,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "rome", "people": "four"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_price
@@ -22343,7 +21524,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "eight", "price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_location
@@ -22367,7 +21547,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "rome", "people": "two", "price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_moreupdates
@@ -22397,7 +21576,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "location": "madrid", "price": "cheap"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "two"}
  - utter_ask_moreupdates
@@ -22422,7 +21600,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "paris"}
  - utter_ask_numpeople
@@ -22452,7 +21629,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "four", "price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_location
@@ -22473,7 +21649,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "people": "two", "price": "moderate"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "london"}
  - utter_ask_moreupdates
@@ -22502,7 +21677,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "location": "london"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "eight"}
  - utter_ask_price
@@ -22526,7 +21700,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_location
@@ -22552,7 +21725,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "location": "madrid"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "four"}
  - utter_ask_price
@@ -22582,7 +21754,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "london"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_numpeople
@@ -22611,7 +21782,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "location": "bombay"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "eight"}
  - utter_ask_price
@@ -22634,7 +21804,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "location": "madrid", "price": "moderate"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "six"}
  - utter_ask_moreupdates
@@ -22659,7 +21828,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "eight", "price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_location
@@ -22684,7 +21852,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "location": "madrid"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "eight"}
  - utter_ask_price
@@ -22715,7 +21882,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "people": "two", "price": "expensive"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "madrid"}
  - utter_ask_moreupdates
@@ -22741,7 +21907,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "rome"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_numpeople
@@ -22774,7 +21939,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_location
@@ -22800,7 +21964,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "price": "cheap"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "madrid"}
  - utter_ask_numpeople
@@ -22827,7 +21990,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "people": "two"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "london"}
  - utter_ask_price
@@ -22853,7 +22015,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_location
@@ -22879,7 +22040,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "london"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_numpeople
@@ -22909,7 +22069,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "people": "two", "price": "moderate"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "london"}
  - utter_ask_moreupdates
@@ -22930,7 +22089,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "people": "eight", "price": "cheap"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "madrid"}
  - utter_ask_moreupdates
@@ -22951,7 +22109,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "people": "two", "price": "moderate"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "rome"}
  - utter_ask_moreupdates
@@ -22976,7 +22133,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "people": "eight"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "rome"}
  - utter_ask_price
@@ -23002,7 +22158,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "price": "moderate"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "paris"}
  - utter_ask_numpeople
@@ -23027,7 +22182,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "madrid", "people": "two", "price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_moreupdates
@@ -23056,7 +22210,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_numpeople
@@ -23079,7 +22232,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "four"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_location
@@ -23110,7 +22262,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "eight", "price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_location
@@ -23144,7 +22295,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "location": "london"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "six"}
  - utter_ask_price
@@ -23174,7 +22324,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "people": "eight", "price": "cheap"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "bombay"}
  - utter_ask_moreupdates
@@ -23203,7 +22352,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "rome", "people": "four", "price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_moreupdates
@@ -23227,7 +22375,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "location": "london"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "six"}
  - utter_ask_price
@@ -23251,7 +22398,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "london", "people": "four"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_price
@@ -23276,7 +22422,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "four"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_location
@@ -23306,7 +22451,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "bombay"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_numpeople
@@ -23331,7 +22475,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "bombay"}
  - utter_ask_numpeople
@@ -23364,7 +22507,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "price": "moderate"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "paris"}
  - utter_ask_numpeople
@@ -23389,7 +22531,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "madrid", "people": "four", "price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_moreupdates
@@ -23414,7 +22555,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "rome"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_numpeople
@@ -23451,7 +22591,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "people": "four"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "madrid"}
  - utter_ask_price
@@ -23482,7 +22621,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "two"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_location
@@ -23511,7 +22649,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "people": "eight", "price": "expensive"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "paris"}
  - utter_ask_moreupdates
@@ -23538,7 +22675,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "people": "four", "price": "cheap"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "madrid"}
  - utter_ask_moreupdates
@@ -23567,7 +22703,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "location": "paris"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "two"}
  - utter_ask_price
@@ -23594,7 +22729,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris", "price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_numpeople
@@ -23622,7 +22756,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_location
@@ -23649,7 +22782,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "people": "four", "price": "expensive"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "paris"}
  - utter_ask_moreupdates
@@ -23677,7 +22809,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "four", "price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_location
@@ -23705,7 +22836,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "madrid", "price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_numpeople
@@ -23730,7 +22860,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "madrid", "price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_numpeople
@@ -23758,7 +22887,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "location": "rome"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "four"}
  - utter_ask_price
@@ -23781,7 +22909,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "price": "moderate"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "rome"}
  - utter_ask_numpeople
@@ -23805,7 +22932,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_location
@@ -23828,7 +22954,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "bombay"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_numpeople
@@ -23857,7 +22982,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "paris"}
  - utter_ask_numpeople
@@ -23880,7 +23004,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "london", "people": "four", "price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_moreupdates
@@ -23905,7 +23028,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "madrid"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_numpeople
@@ -23931,7 +23053,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_location
@@ -23967,7 +23088,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "paris"}
  - utter_ask_numpeople
@@ -23993,7 +23113,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "location": "bombay"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "two"}
  - utter_ask_price
@@ -24014,7 +23133,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "price": "cheap"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "paris"}
  - utter_ask_numpeople
@@ -24035,7 +23153,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "location": "madrid"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "six"}
  - utter_ask_price
@@ -24058,7 +23175,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "two"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_location
@@ -24087,7 +23203,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_location
@@ -24116,7 +23231,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "madrid"}
  - utter_ask_numpeople
@@ -24149,7 +23263,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "location": "paris"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "two"}
  - utter_ask_price
@@ -24183,7 +23296,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_numpeople
@@ -24211,7 +23323,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "bombay"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_numpeople
@@ -24242,7 +23353,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "two"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_location
@@ -24268,7 +23378,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "london"}
  - utter_ask_numpeople
@@ -24295,7 +23404,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "location": "paris", "people": "two"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "moderate"}
  - utter_ask_moreupdates
@@ -24314,7 +23422,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "six", "price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_location
@@ -24341,7 +23448,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "price": "cheap"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "rome"}
  - utter_ask_numpeople
@@ -24372,7 +23478,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris", "people": "six", "price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_moreupdates
@@ -24404,7 +23509,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "madrid", "people": "two", "price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_moreupdates
@@ -24426,7 +23530,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "four"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_location
@@ -24449,7 +23552,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "four", "price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_location
@@ -24470,7 +23572,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_location
@@ -24498,7 +23599,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "four", "price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_location
@@ -24519,7 +23619,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_location
@@ -24542,7 +23641,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "eight", "price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_location
@@ -24563,7 +23661,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "location": "madrid", "price": "moderate"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "two"}
  - utter_ask_moreupdates
@@ -24582,7 +23679,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "six"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_location
@@ -24607,7 +23703,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "four"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_location
@@ -24632,7 +23727,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "madrid"}
  - utter_ask_numpeople
@@ -24661,7 +23755,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "location": "bombay", "price": "cheap"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "six"}
  - utter_ask_moreupdates
@@ -24685,7 +23778,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris", "price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_numpeople
@@ -24713,7 +23805,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "price": "cheap"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "madrid"}
  - utter_ask_numpeople
@@ -24740,7 +23831,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "location": "paris", "people": "two"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "cheap"}
  - utter_ask_moreupdates
@@ -24761,7 +23851,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "price": "moderate"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "madrid"}
  - utter_ask_numpeople
@@ -24792,7 +23881,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "madrid", "people": "four", "price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_moreupdates
@@ -24819,7 +23907,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "madrid", "people": "six", "price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_moreupdates
@@ -24843,7 +23930,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "people": "six", "price": "expensive"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "london"}
  - utter_ask_moreupdates
@@ -24872,7 +23958,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "two", "price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_location
@@ -24900,7 +23985,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "london", "people": "two"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_price
@@ -24927,7 +24011,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "price": "moderate"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "london"}
  - utter_ask_numpeople
@@ -24952,7 +24035,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "location": "london", "price": "expensive"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "six"}
  - utter_ask_moreupdates
@@ -24977,7 +24059,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "eight"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_location
@@ -25008,7 +24089,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "price": "cheap"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "paris"}
  - utter_ask_numpeople
@@ -25035,7 +24115,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "location": "london"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "six"}
  - utter_ask_price
@@ -25066,7 +24145,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "price": "cheap"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "madrid"}
  - utter_ask_numpeople
@@ -25100,7 +24178,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "location": "bombay", "price": "moderate"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "two"}
  - utter_ask_moreupdates
@@ -25123,7 +24200,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "four"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_location
@@ -25154,7 +24230,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "bombay", "price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_numpeople
@@ -25185,7 +24260,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "location": "paris", "price": "moderate"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "two"}
  - utter_ask_moreupdates
@@ -25210,7 +24284,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "two"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_location
@@ -25243,7 +24316,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "location": "paris", "price": "expensive"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "two"}
  - utter_ask_moreupdates
@@ -25270,7 +24342,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "six", "price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_location
@@ -25294,7 +24365,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "location": "madrid", "price": "expensive"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "two"}
  - utter_ask_moreupdates
@@ -25315,7 +24385,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "price": "moderate"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "rome"}
  - utter_ask_numpeople
@@ -25345,7 +24414,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "location": "london", "price": "expensive"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "six"}
  - utter_ask_moreupdates
@@ -25370,7 +24438,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "location": "paris", "price": "moderate"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "eight"}
  - utter_ask_moreupdates
@@ -25394,7 +24461,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "two", "price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_location
@@ -25421,7 +24487,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "madrid", "price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_numpeople
@@ -25450,7 +24515,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "six"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_location
@@ -25484,7 +24548,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "location": "london"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "eight"}
  - utter_ask_price
@@ -25518,7 +24581,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "people": "four", "price": "moderate"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "paris"}
  - utter_ask_moreupdates
@@ -25537,7 +24599,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "people": "four"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "bombay"}
  - utter_ask_price
@@ -25558,7 +24619,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "two", "price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_location
@@ -25589,7 +24649,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "location": "bombay", "people": "two"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "expensive"}
  - utter_ask_moreupdates
@@ -25610,7 +24669,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "location": "paris", "price": "expensive"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "six"}
  - utter_ask_moreupdates
@@ -25635,7 +24693,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "rome", "people": "two", "price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_moreupdates
@@ -25662,7 +24719,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "location": "london", "people": "four"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "moderate"}
  - utter_ask_moreupdates
@@ -25691,7 +24747,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "bombay"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_numpeople
@@ -25720,7 +24775,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "people": "six", "price": "moderate"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "madrid"}
  - utter_ask_moreupdates
@@ -25743,7 +24797,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "rome", "price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_numpeople
@@ -25770,7 +24823,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "london"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_numpeople
@@ -25801,7 +24853,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "people": "two"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "madrid"}
  - utter_ask_price
@@ -25827,7 +24878,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "price": "expensive"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "rome"}
  - utter_ask_numpeople
@@ -25848,7 +24898,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "madrid"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_numpeople
@@ -25873,7 +24922,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "madrid", "price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_numpeople
@@ -25904,7 +24952,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "rome", "price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_numpeople
@@ -25935,7 +24982,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris", "price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_numpeople
@@ -25960,7 +25006,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "rome", "price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_numpeople
@@ -25985,7 +25030,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris", "price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_numpeople
@@ -26016,7 +25060,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "price": "expensive"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "madrid"}
  - utter_ask_numpeople
@@ -26040,7 +25083,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_numpeople
@@ -26065,7 +25107,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "location": "madrid", "people": "six"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "cheap"}
  - utter_ask_moreupdates
@@ -26093,7 +25134,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "rome", "people": "eight"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_price
@@ -26124,7 +25164,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "people": "two", "price": "cheap"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "paris"}
  - utter_ask_moreupdates
@@ -26148,7 +25187,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "location": "london", "people": "four"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "expensive"}
  - utter_ask_moreupdates
@@ -26167,7 +25205,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "location": "paris", "people": "four"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "cheap"}
  - utter_ask_moreupdates
@@ -26197,7 +25234,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "eight", "price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_location
@@ -26224,7 +25260,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "london"}
  - utter_ask_numpeople
@@ -26258,7 +25293,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "eight"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_location
@@ -26285,7 +25319,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "bombay", "price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "italian"}
  - utter_ask_numpeople
@@ -26312,7 +25345,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "london", "price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_numpeople
@@ -26339,7 +25371,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "location": "london", "price": "moderate"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "two"}
  - utter_ask_moreupdates
@@ -26362,7 +25393,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "price": "expensive"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "bombay"}
  - utter_ask_numpeople
@@ -26383,7 +25413,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "price": "cheap"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "madrid"}
  - utter_ask_numpeople
@@ -26404,7 +25433,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "location": "london", "price": "cheap"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "four"}
  - utter_ask_moreupdates
@@ -26430,7 +25458,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris", "people": "two", "price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_moreupdates
@@ -26459,7 +25486,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_location
@@ -26489,7 +25515,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "madrid"}
  - utter_ask_numpeople
@@ -26515,7 +25540,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "madrid", "price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_numpeople
@@ -26543,7 +25567,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "bombay", "people": "two"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_price
@@ -26577,7 +25600,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "london"}
  - utter_ask_numpeople
@@ -26607,7 +25629,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "location": "rome", "price": "moderate"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "four"}
  - utter_ask_moreupdates
@@ -26635,7 +25656,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris", "people": "six"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "french"}
  - utter_ask_price
@@ -26667,7 +25687,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "location": "paris", "people": "four"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "moderate"}
  - utter_ask_moreupdates
@@ -26696,7 +25715,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "location": "london", "people": "four"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "moderate"}
  - utter_ask_moreupdates
@@ -26725,7 +25743,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "location": "paris"}
- - utter_on_it
  - utter_ask_numpeople
 * inform{"people": "six"}
  - utter_ask_price
@@ -26756,7 +25773,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_location
@@ -26781,7 +25797,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "people": "six"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "london"}
  - utter_ask_price
@@ -26805,7 +25820,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "rome", "people": "eight", "price": "expensive"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_moreupdates
@@ -26828,7 +25842,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_numpeople
@@ -26857,7 +25870,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"location": "paris", "people": "four", "price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_moreupdates
@@ -26879,7 +25891,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"people": "six"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_location
@@ -26905,7 +25916,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "spanish", "people": "six", "price": "moderate"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "madrid"}
  - utter_ask_moreupdates
@@ -26924,7 +25934,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "british", "location": "london", "people": "six"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "expensive"}
  - utter_ask_moreupdates
@@ -26951,7 +25960,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "madrid"}
  - utter_ask_numpeople
@@ -26984,7 +25992,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "spanish"}
  - utter_ask_location
@@ -27017,7 +26024,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "paris"}
  - utter_ask_numpeople
@@ -27046,7 +26052,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "french", "people": "four", "price": "cheap"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "bombay"}
  - utter_ask_moreupdates
@@ -27073,7 +26078,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "indian"}
  - utter_ask_location
@@ -27101,7 +26105,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"price": "moderate"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_location
@@ -27137,7 +26140,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"price": "cheap"}
- - utter_on_it
  - utter_ask_cuisine
 * inform{"cuisine": "british"}
  - utter_ask_location
@@ -27162,7 +26164,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "italian", "location": "rome", "people": "eight"}
- - utter_on_it
  - utter_ask_price
 * inform{"price": "cheap"}
  - utter_ask_moreupdates
@@ -27181,7 +26182,6 @@
 * greet
  - utter_ask_howcanhelp
 * inform{"cuisine": "indian", "price": "cheap"}
- - utter_on_it
  - utter_ask_location
 * inform{"location": "rome"}
  - utter_ask_numpeople
